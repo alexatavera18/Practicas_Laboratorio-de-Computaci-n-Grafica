@@ -1,5 +1,5 @@
 //Nombre: Alexa Fernanda López Tavera
-//Practica 2: 
+//Practica 2: Dibujo de primitivas 2D
 //Fecha de entrega: 22 de Agosto,2025
 //No. de cuenta:319023024
 
